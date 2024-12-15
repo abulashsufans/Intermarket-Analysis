@@ -22,13 +22,15 @@ The following results were obtained from the project:
 ### 1. Graphical Representation:
 - The following plots show the trends of different financial data over time:
 
+![Indices 1](output_plot/indices1.png)
+![Indices 2](output_plot/indices2.png)
+![Gold 1](output_plot/gold1.png)
+![Gold 2](output_plot/gold2.png)
 ![Crude Oil 1](output_plot/crude1.png)
 ![Crude Oil 2](output_plot/crude2.png)
 ![Currency](output_plot/currency1.png)
-![Gold 1](output_plot/gold1.png)
-![Gold 2](output_plot/gold2.png)
-![Indices 1](output_plot/indices1.png)
-![Indices 2](output_plot/indices2.png)
+
+
 
 ### 2. Key Findings:
 
