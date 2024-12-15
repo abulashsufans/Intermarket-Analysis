@@ -13,4 +13,4 @@ This project explores the relationships between the Indian stock market (Nifty) 
   - `pandas` and `numpy` for data manipulation
   - `yfinance` for financial data retrieval
   - `matplotlib` and `seaborn` for visualization
-- **Google Colab** for running the Jupyter Notebook environment
+- **Google Colab** for running the Python code
